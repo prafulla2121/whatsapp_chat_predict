@@ -1,17 +1,6 @@
 # WhatsApp Chat Analyzer 📊💬
 
 A powerful tool to analyze and visualize WhatsApp chat exports. Gain insights into chat trends, user activity, sentiment, and more through beautiful graphs and charts.
-
----
-
-## 📸 Screenshots
-
-| Chat Statistics | Word Cloud | Emoji Analysis |
-|-----------------|------------|----------------|
-| ![stats](screenshots/chat_stats.png) | ![wordcloud](screenshots/word_cloud.png) | ![emojis](screenshots/emoji_analysis.png) |
-
-
-
 ---
 
 ## 🔗 Deployed Link
