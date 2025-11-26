@@ -6,8 +6,7 @@ A powerful tool to analyze and visualize WhatsApp chat exports. Gain insights in
 ## 🔗 Deployed Link
 
 You can try the live version here:
-
-👉 [Live App on Streamlit](https://whatsappchatpredict-3qss86kcsnbjzbl6jwnkqg.streamlit.app/)
+https://whatsappchatpredict-3qss86kcsnbjzbl6jwnkqg.streamlit.app/
 
 ---
 
